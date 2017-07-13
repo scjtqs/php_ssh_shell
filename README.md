@@ -14,3 +14,5 @@
 windows 的用户，请在这直接下载dll  
 
 <a href="https://pecl.php.net/package/ssh2">ssh2扩展下载</a>
+
+然后就可以吧此类导入到vender实例化使用了
